@@ -205,7 +205,7 @@
             "nameCss": "a",
             "nameIndex": 0,
             "searchListCss": "div.pack-ykpack > div.pack-packcover",
-            "urlAttr": "target.href",
+            "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
           },
