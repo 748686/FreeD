@@ -202,7 +202,7 @@
             "mainCss": "div.vodlist.hotgrow.size",
             "mainListIndex": 0,
             "nameAttr": "title",
-            "nameCss": "div>div>a",
+            "nameCss": "a",
             "nameIndex": 0,
             "searchListCss": "div.pack-ykpack > div.pack-packcover",
             "urlAttr": "target.href",
