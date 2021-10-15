@@ -130,8 +130,8 @@
       "click": true,
       "webPlus": {
         "search_url": "http://vipmv.tv/vod/search.html?wd={kw}&submit=",
-        "nav_url": "http://vipmv.tv/vodshow/navCate/page/navPage",
-        "cate_url": "http://vipmv.tv/vodshow/cateNav/area/cateArea/page/catePage/year/cateYear/class/cateCate",
+        "nav_url": "",
+        "cate_url": "",
         "web_name": "追剧达人",
         "kw": "wd",
         "params": [
