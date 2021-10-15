@@ -204,7 +204,7 @@
             "nameAttr": "title",
             "nameCss": "div>div>a",
             "nameIndex": 0,
-            "searchListCss": "div",
+            "searchListCss": "div.pack-ykpack>div.pack-packcover",
             "urlAttr": "target.href",
             "urlCss": "a",
             "urlIndex": 0
