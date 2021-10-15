@@ -164,13 +164,13 @@
             "isListItemAttr": true,
             "isReg": false,
             "isRegNeedDecoder": false,
-            "listCss": "li",
+            "listCss": "ul > li",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.content_playlist.cf",
+            "mainCss": "div.play_source",
             "mainIndex": 0,
             "regIndexList": [
               0
