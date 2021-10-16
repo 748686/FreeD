@@ -160,7 +160,7 @@
         "cateHtml": {},
         "html": {
           "episodes": {
-            "hasUrlPrefix": false,
+            "hasUrlPrefix": true,
             "isListItemAttr": true,
             "isReg": false,
             "isRegNeedDecoder": false,
@@ -197,7 +197,7 @@
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
-            "isNameAttr": true,
+            "isNameAttr": false,
             "isUrlAttr": true,
             "mainCss": "div.vodlist.hotgrow.size.listdh.top20.wow.fadeInUp.animated",
             "mainListIndex": 0,
