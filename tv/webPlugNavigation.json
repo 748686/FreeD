@@ -164,7 +164,7 @@
             "isListItemAttr": true,
             "isReg": false,
             "isRegNeedDecoder": false,
-            "listCss": "ul > li",
+            "listCss": "li",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
