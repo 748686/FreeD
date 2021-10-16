@@ -177,7 +177,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.content_playlist.clearfix",
+            "mainCss": "ul.content_playlist.cf",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -200,7 +200,7 @@
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
-            "imgCss": "div",
+            "imgCss": "div.bj",
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
@@ -209,11 +209,11 @@
             "mainCss": "div.vodlist.hotgrow",
             "mainListIndex": 0,
             "nameAttr": "title",
-            "nameCss": "a",
+            "nameCss": "a.aplus-exp",
             "nameIndex": 1,
             "searchListCss": "div",
             "urlAttr": "href",
-            "urlCss": "a",
+            "urlCss": "a.aplus-exp",
             "urlIndex": 0
           },
           "search": {
@@ -225,7 +225,7 @@
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
-            "imgCss": "div",
+            "imgCss": "div.bj",
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
@@ -234,11 +234,11 @@
             "mainCss": "div.ec-search",
             "mainListIndex": 0,
             "nameAttr": "title",
-            "nameCss": "a",
+            "nameCss": "a.aplus-exp",
             "nameIndex": 0,
             "searchListCss": "li",
             "urlAttr": "href",
-            "urlCss": "a",
+            "urlCss": "a.aplus-exp",
             "urlIndex": 0
           },
           "video": {
