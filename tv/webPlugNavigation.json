@@ -130,7 +130,7 @@
       "click": true,
       "webPlus": {
         "search_url": "http://vipmv.tv/vod/search.html?wd={kw}&submit=",
-        "nav_url": "",
+        "nav_url": "http://vipmv.tv/vodshow/navCate--------navPage---.html",
         "cate_url": "",
         "web_name": "追剧达人",
         "kw": "wd",
@@ -149,11 +149,11 @@
             "动漫"
           ],
           "cate": [
-            "20-----------",
-            "1-----------",
-            "2-----------",
-            "3-----------",
-            "4-----------"
+            "20",
+            "1",
+            "2",
+            "3",
+            "4"
           ],
           "page": "1"
         },
@@ -203,8 +203,8 @@
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "div.pack-ykpack > div.pack-packcover.returl.list-top-b",
+            "nameIndex": 1,
+            "searchListCss": "div",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -229,7 +229,7 @@
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "div.pack-ykpack > div.pack-packcover.returl.list-top-b",
+            "searchListCss": "div",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
