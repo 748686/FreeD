@@ -130,7 +130,7 @@
       "click": true,
       "webPlus": {
         "search_url": "http://vipmv.tv/vod/search.html?wd={kw}&submit=",
-        "nav_url": "http://vipmv.tv/vodshow/navCate/navPage.html",
+        "nav_url": "http://vipmv.tv/vodshow/navCate--------navPage---.html",
         "cate_url": "",
         "web_name": "追剧达人",
         "kw": "wd",
@@ -149,11 +149,11 @@
             "动漫"
           ],
           "cate": [
-            "20-----------",
-            "1-----------",
-            "2-----------",
-            "3-----------",
-            "4-----------"
+            "20",
+            "1",
+            "2",
+            "3",
+            "4"
           ],
           "page": "1"
         },
