@@ -206,7 +206,7 @@
             "isImgAttr": true,
             "isNameAttr": false,
             "isUrlAttr": true,
-            "mainCss": "div.vodlist.hotgrow.fadeInUp;",
+            "mainCss": "div.vodlist.hotgrow",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
