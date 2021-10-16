@@ -203,8 +203,8 @@
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "div.pack-ykpack > div.pack-packcover.returl.list-top-b",
+            "nameIndex": 1,
+            "searchListCss": "div",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -229,7 +229,7 @@
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "div.pack-ykpack > div.pack-packcover.returl.list-top-b",
+            "searchListCss": "div",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
