@@ -131,7 +131,7 @@
       "webPlus": {
         "search_url": "http://vipmv.tv/vod/search.html?wd={kw}&submit=",
         "nav_url": "http://vipmv.tv/vodshow/navCate--------navPage---.html",
-        "cate_url": "",
+        "cate_url": "http://vipmv.tv/vodshow/6-%E5%A4%A7%E9%99%86----------2020.html",
         "web_name": "追剧达人",
         "kw": "wd",
         "params": [
