@@ -157,7 +157,14 @@
           ],
           "page": "1"
         },
-        "cateHtml": {},
+        "cateHtml": {
+         "isCate": false,
+          "isYear": false,
+          "isArea": false,
+          "cate": "",
+          "year": "",
+          "area": ""
+        },
         "html": {
           "episodes": {
             "hasUrlPrefix": true,
