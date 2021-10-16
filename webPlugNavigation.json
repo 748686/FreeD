@@ -129,7 +129,7 @@
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "http://vipmv.tv/vsearch/-------------.html?wd={kw}",
+        "search_url": "http://vipmv.tv/vod/search.html?wd={kw}",
         "nav_url": "http://vipmv.tv/show/navCate--------navPage---.html",
         "cate_url": "",
         "web_name": "追剧",
