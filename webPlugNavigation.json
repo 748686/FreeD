@@ -142,16 +142,18 @@
         ],
         "navHtml": {
           "name": [
+            "推荐",
             "电影",
             "连续剧",
             "综艺",
             "动漫"
           ],
           "cate": [
-            "dianying",
-            "lianxuju",
-            "zongyi",
-            "dongman"
+            "20",
+            "1",
+            "2",
+            "3",
+            "4"
           ],
           "page": "1"
         },
