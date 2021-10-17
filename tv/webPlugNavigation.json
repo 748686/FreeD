@@ -177,7 +177,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.stui-content__playlist",
+            "mainCss": "ul.content_playlist.cf"",
             "mainIndex": 0,
             "regIndexList": [
               0
