@@ -202,7 +202,7 @@
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
-            "imgCss": "div",
+            "imgCss": "a > div",
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
