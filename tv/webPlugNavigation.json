@@ -132,7 +132,7 @@
       "webPlus": {
         "search_url": "http://vipmv.tv/vod/search.html?wd={kw}",
         "nav_url": "http://vipmv.tv/vodshow/navCate--------navPage---.html",
-        "cate_url": "http://vipmv.tv/vodshow/cateNav-------catePage---cateYear.html",
+        "cate_url": "http://vipmv.tv/vodshow/cateNav-catearea------catePage---cateYear.html",
         "web_name": "追剧TV",
         "kw": "wd",
         "params": [
