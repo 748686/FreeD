@@ -233,14 +233,14 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.ec-search",
+            "mainCss": "ul",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "div.1 > div.pack-packcover > a",
             "nameIndex": 0,
-            "searchListCss": "div.ec-search > ul > li",
+            "searchListCss": "ul > li",
             "urlAttr": "href",
-            "urlCss": "a",
+            "urlCss": "div.1 > div.pack-cover >a",
             "urlIndex": 0
           },
           "video": {
