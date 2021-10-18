@@ -132,7 +132,7 @@
       "webPlus": {
         "search_url": "http://vipmv.tv/vod/search.html?wd={kw}",
         "nav_url": "http://vipmv.tv/vodshow/navCate--------navPage---.html",
-        "cate_url": "https://www.wydcn.com/vod/show/id/cateNav/page/catePage/year/cateYear.html",
+        "cate_url": "http://vipmv.tv/vodshow/cateNav-------catePage---cateYear.html",
         "web_name": "追剧TV",
         "kw": "wd",
         "params": [
@@ -144,12 +144,14 @@
         "navHtml": {
           "name": [
            
+            "推荐",
             "电影",
             "连续剧",
             "综艺",
             "动画"
           ],
           "cate": [
+            "20",
             "1",
             "2",
             "3",
